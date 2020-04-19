@@ -1,1 +1,1 @@
-# K-Armed-Bandits-100-Armed-Bandit.py
+This repository contains Jupyter notebooks on k-armed and strategic bandits. I evaluate the most popular policies including epsilon-greedy, Thompson Sampling, UCB1, and others. Strategic bandits are a novel type of bandit in which the agent's choice of action affects the payoff and probability distributions of other actions. In some sense, I convert a traditional k-armed bandit into a repeated strategic game such as the repeated Prisoner's Dilemma. The bandit becomes an opponent in the repeated strategic game.
